@@ -1,1 +1,1 @@
-# Quantumult-x.conf
+# Quantumult-x
